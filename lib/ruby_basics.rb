@@ -26,4 +26,3 @@ def pizza_party
 
 end
 
-divison(3,2)
